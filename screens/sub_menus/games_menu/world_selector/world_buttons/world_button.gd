@@ -1,8 +1,9 @@
-class_name WorldButton extends TextureButton
+class_name WorldButton extends Button
 
 @export var world : World
 @export var is_selected:bool :set = _set_is_selected
 
+@onready var _world_icon : WorldIcon = $WorldIcon as WorldIcon
 
 func _set_is_selected(new_value:bool):
 	is_selected = new_value
@@ -11,10 +12,8 @@ func _set_is_selected(new_value:bool):
 func update_button_texture():
 
 	if is_selected:
-		self.texture_normal = world.selected_button_texture
-		self.z_index = 10
+		_world_icon.play_selected_animation()
 	
 	else:
-		self.texture_normal = world.normal_button_texture
-		self.z_index = 0
+		_world_icon.play_unselected_animation()
 

@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="World" load_steps=17 format=3 uid="uid://hty4hpn362li"]
+[gd_resource type="Resource" script_class="World" load_steps=15 format=3 uid="uid://hty4hpn362li"]
 
 [ext_resource type="Texture2D" uid="uid://m7wsmpycolq5" path="res://screens/sub_menus/games_menu/assets/snowstorm_background.png" id="1_oedcw"]
 [ext_resource type="Script" path="res://data/min_max_int_rate/min_max_int_rate.gd" id="1_vxooa"]
@@ -13,8 +13,6 @@
 [ext_resource type="Resource" uid="uid://cvsiyos131jcu" path="res://data/worlds/snowstorm/level_9/level_9_st.tres" id="11_e3h1a"]
 [ext_resource type="Resource" uid="uid://nw6qf1u8l4eq" path="res://data/worlds/snowstorm/level_10/level_10_st.tres" id="12_crdda"]
 [ext_resource type="Script" path="res://data/worlds/world.gd" id="13_3bxgn"]
-[ext_resource type="Texture2D" uid="uid://cdi4b730oljac" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/assets/stalingrad_summer_unselected.png" id="13_in5um"]
-[ext_resource type="Texture2D" uid="uid://bs4cvmcom4iyo" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/assets/stalingrad_summer.png" id="15_e32yt"]
 
 [sub_resource type="Resource" id="Resource_v82nr"]
 script = ExtResource("1_vxooa")
@@ -25,8 +23,6 @@ maximum_value = 10
 script = ExtResource("13_3bxgn")
 world_name = "Snowstorm"
 games_menu_background = ExtResource("1_oedcw")
-normal_button_texture = ExtResource("13_in5um")
-selected_button_texture = ExtResource("15_e32yt")
 levels = Array[Resource("res://data/worlds/level.gd")]([ExtResource("3_o5ucp"), ExtResource("4_c38gd"), ExtResource("5_rs4lj"), ExtResource("6_h0cn6"), ExtResource("7_10bvg"), ExtResource("8_018x8"), ExtResource("9_kprpv"), ExtResource("10_wog8q"), ExtResource("11_e3h1a"), ExtResource("12_crdda")])
 coin_dropping_rate = SubResource("Resource_v82nr")
 falling_coin_value = 25

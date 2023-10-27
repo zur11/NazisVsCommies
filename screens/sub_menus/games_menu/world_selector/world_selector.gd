@@ -9,11 +9,6 @@ var _worlds : Array[World]
 var _selected_world_index : int
 
 
-func _ready():
-	if Engine.is_editor_hint() and _worlds.size() != 0 and self.get_child_count() != 0:
-		for world_button in self.get_children():
-			world_button.texture_normal = world_button.world.normal_button_texture
-
 func initial_setup():
 	_get_user_data()
 	_set_world_buttons()
@@ -39,9 +34,6 @@ func _set_world_buttons():
 		var world_button = self.get_child(ii) as WorldButton
 		
 		world_button.world = _worlds[ii]
-		
-#		if world.world_unlocked:
-			
 		
 		if ii == _selected_world_index:
 			world_button.is_selected = true
