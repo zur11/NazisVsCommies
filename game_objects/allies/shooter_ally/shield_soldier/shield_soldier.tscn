@@ -1,6 +1,6 @@
 [gd_scene load_steps=43 format=3 uid="uid://dm0t1b4mj7sbb"]
 
-[ext_resource type="Texture2D" uid="uid://h7ahh3wb6l8c" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_bpkpo"]
+[ext_resource type="Texture2D" uid="uid://cto61eke7joyb" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_bpkpo"]
 [ext_resource type="Script" path="res://game_objects/allies/shooter_ally/shield_soldier/shield_soldier.gd" id="1_f8qrn"]
 [ext_resource type="Texture2D" uid="uid://car5h3dlcy1xh" path="res://game_objects/allies/shooter_ally/shield_soldier/ally_card_assets/soviet_soldier_3_affordable.png" id="2_63diw"]
 [ext_resource type="Texture2D" uid="uid://byj5vau8tliyw" path="res://game_objects/allies/shooter_ally/shield_soldier/assets/leg2.png" id="2_r67n8"]

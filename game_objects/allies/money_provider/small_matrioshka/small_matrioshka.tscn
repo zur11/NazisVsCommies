@@ -1,6 +1,6 @@
 [gd_scene load_steps=28 format=3 uid="uid://ciopcfjgq5ifn"]
 
-[ext_resource type="Texture2D" uid="uid://h7ahh3wb6l8c" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_h2rfk"]
+[ext_resource type="Texture2D" uid="uid://cto61eke7joyb" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_h2rfk"]
 [ext_resource type="Script" path="res://game_objects/allies/money_provider/small_matrioshka/small_matrioshka.gd" id="1_x5in0"]
 [ext_resource type="Texture2D" uid="uid://bgfdah7d1bbit" path="res://game_objects/allies/money_provider/small_matrioshka/assets/matrioska_table.png" id="2_75hrx"]
 [ext_resource type="Script" path="res://data/min_max_int_rate/min_max_int_rate.gd" id="2_e0kds"]

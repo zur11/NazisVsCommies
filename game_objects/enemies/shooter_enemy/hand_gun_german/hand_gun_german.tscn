@@ -1,7 +1,7 @@
 [gd_scene load_steps=51 format=3 uid="uid://dq5mtgrma5krp"]
 
 [ext_resource type="Script" path="res://game_objects/enemies/shooter_enemy/hand_gun_german/hand_gun_german.gd" id="1_4onxa"]
-[ext_resource type="Texture2D" uid="uid://h7ahh3wb6l8c" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_umi8j"]
+[ext_resource type="Texture2D" uid="uid://cto61eke7joyb" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_umi8j"]
 [ext_resource type="Texture2D" uid="uid://b7ks8vybhsnnx" path="res://assets/game_objects/soldier_shared_assets/german_left_leg.png" id="3_j7t7w"]
 [ext_resource type="Texture2D" uid="uid://cdq3rc3emub44" path="res://assets/game_objects/soldier_shared_assets/german_left_foot.png" id="4_2r4kh"]
 [ext_resource type="Texture2D" uid="uid://dbvufx1c31kg6" path="res://assets/game_objects/soldier_shared_assets/german_right_leg.png" id="5_m7ll4"]

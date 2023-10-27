@@ -1,6 +1,6 @@
 [gd_scene load_steps=39 format=3 uid="uid://d8vpn2nhfnyd"]
 
-[ext_resource type="Texture2D" uid="uid://h7ahh3wb6l8c" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_41s6d"]
+[ext_resource type="Texture2D" uid="uid://cto61eke7joyb" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_41s6d"]
 [ext_resource type="Script" path="res://game_objects/allies/shooter_ally/farmer/farmer.gd" id="1_uyd4l"]
 [ext_resource type="PackedScene" uid="uid://br8skpb4kh7c7" path="res://game_objects/components/bullet/gun_bullet/gun_bullet.tscn" id="2_aaot1"]
 [ext_resource type="Texture2D" uid="uid://xhah1hnlh507" path="res://game_objects/allies/shooter_ally/farmer/assets/right_leg.PNG" id="2_thxud"]

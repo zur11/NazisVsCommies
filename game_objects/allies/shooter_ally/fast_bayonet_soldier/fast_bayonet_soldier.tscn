@@ -1,7 +1,7 @@
 [gd_scene load_steps=42 format=3 uid="uid://csd3tcowd2h4x"]
 
 [ext_resource type="Script" path="res://game_objects/allies/shooter_ally/fast_bayonet_soldier/fast_bayonet_soldier.gd" id="1_fa3kp"]
-[ext_resource type="Texture2D" uid="uid://h7ahh3wb6l8c" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_r7v6n"]
+[ext_resource type="Texture2D" uid="uid://cto61eke7joyb" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_r7v6n"]
 [ext_resource type="PackedScene" uid="uid://br8skpb4kh7c7" path="res://game_objects/components/bullet/gun_bullet/gun_bullet.tscn" id="3_jht3y"]
 [ext_resource type="Texture2D" uid="uid://d0tq5v3l7gtgs" path="res://game_objects/allies/shooter_ally/fast_bayonet_soldier/ally_card_assets/fast_bayonet_soldier.png" id="4_rcju2"]
 [ext_resource type="Texture2D" uid="uid://bhjv64fpim6o1" path="res://game_objects/allies/shooter_ally/fast_bayonet_soldier/ally_card_assets/fast_bayonet_soldier_selected.png" id="5_p1r23"]

@@ -1,6 +1,6 @@
 [gd_scene load_steps=42 format=3 uid="uid://cls10jllpda83"]
 
-[ext_resource type="Texture2D" uid="uid://h7ahh3wb6l8c" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_htuxv"]
+[ext_resource type="Texture2D" uid="uid://cto61eke7joyb" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_htuxv"]
 [ext_resource type="Script" path="res://game_objects/allies/shooter_ally/bayonet_soldier/bayonet_soldier.gd" id="1_m4sxj"]
 [ext_resource type="PackedScene" uid="uid://br8skpb4kh7c7" path="res://game_objects/components/bullet/gun_bullet/gun_bullet.tscn" id="2_1cqgh"]
 [ext_resource type="Texture2D" uid="uid://dla3tqrgg7j8w" path="res://assets/game_objects/soldier_shared_assets/legup2.png" id="2_82qqj"]
@@ -1159,6 +1159,7 @@ offset = Vector2(12.919, 34.556)
 
 [node name="Body" type="Sprite2D" parent="Textures"]
 position = Vector2(0, 39)
+rotation = 0.0523599
 texture = ExtResource("6_t6tvu")
 offset = Vector2(0, -39)
 

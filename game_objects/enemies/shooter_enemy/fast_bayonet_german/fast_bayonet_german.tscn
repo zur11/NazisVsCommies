@@ -1,6 +1,6 @@
 [gd_scene load_steps=49 format=3 uid="uid://bdc1i21ltu3hk"]
 
-[ext_resource type="Texture2D" uid="uid://h7ahh3wb6l8c" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_f2wcr"]
+[ext_resource type="Texture2D" uid="uid://cto61eke7joyb" path="res://assets/game_objects/soldier_shared_assets/circle_shadow.png" id="1_f2wcr"]
 [ext_resource type="Script" path="res://game_objects/enemies/shooter_enemy/fast_bayonet_german/fast_bayonet_german.gd" id="1_pwmqf"]
 [ext_resource type="Texture2D" uid="uid://bhsl4lk6e02jx" path="res://game_objects/enemies/shooter_enemy/fast_bayonet_german/assets/left_leg.png" id="3_3ffso"]
 [ext_resource type="Texture2D" uid="uid://sr5ocryqeyw8" path="res://game_objects/enemies/shooter_enemy/fast_bayonet_german/assets/left_foot.png" id="4_xxaq4"]
