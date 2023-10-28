@@ -204,7 +204,7 @@ tracks/10/keys = {
 "times": PackedFloat32Array(0),
 "transitions": PackedFloat32Array(1),
 "update": 0,
-"values": [0.139626]
+"values": [0.0]
 }
 
 [sub_resource type="Animation" id="Animation_oi5i7"]
@@ -467,6 +467,18 @@ tracks/6/keys = {
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
 "values": [0.0, 0.203687]
+}
+tracks/7/type = "value"
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/path = NodePath("Textures/RightLeg:rotation")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.0]
 }
 
 [sub_resource type="Animation" id="Animation_kx3tp"]
@@ -1406,7 +1418,6 @@ offset = Vector2(-20, 33)
 
 [node name="RightLeg" type="Sprite2D" parent="Textures"]
 position = Vector2(15.7349, 51.3984)
-rotation = 0.139626
 texture = ExtResource("5_m7ll4")
 offset = Vector2(-14.421, 26.3874)
 

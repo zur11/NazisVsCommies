@@ -2,8 +2,8 @@
 
 [ext_resource type="Script" path="res://data/ally_presentation/ally_presentation.gd" id="1_b30o1"]
 [ext_resource type="Script" path="res://data/worlds/trenches/level_trenches.gd" id="1_qo6jl"]
-[ext_resource type="Texture2D" uid="uid://dbswf3uod37qh" path="res://data/worlds/trenches/level_4/enemy_thumbnail_hand_gun.png" id="2_j7wbv"]
 [ext_resource type="Script" path="res://data/min_max_int_rate/min_max_int_rate.gd" id="2_od3d3"]
+[ext_resource type="Texture2D" uid="uid://bggimwxcwswxs" path="res://data/worlds/trenches/level_4/enemy_thumbnail_standard.png" id="3_kn5v5"]
 [ext_resource type="Texture2D" uid="uid://cpwpyrkuuw2c7" path="res://data/worlds/trenches/stalingrad_game_background.png" id="4_en0xs"]
 [ext_resource type="Texture2D" uid="uid://b6ln2w14sh4fo" path="res://data/worlds/trenches/salingrad_1_foreground.png" id="5_l4w3g"]
 [ext_resource type="PackedScene" uid="uid://cgva8gvblu5qv" path="res://game_objects/allies/money_provider/matrioshka/matrioshka.tscn" id="5_n8mi7"]
@@ -490,7 +490,7 @@ game_background = ExtResource("4_en0xs")
 game_foreground = ExtResource("5_l4w3g")
 level_name = "Level 4"
 level_thumbnail = ExtResource("13_yjr6h")
-enemy_thumbnail = ExtResource("2_j7wbv")
+enemy_thumbnail = ExtResource("3_kn5v5")
 level_allies = Array[PackedScene]([ExtResource("15_410q1"), ExtResource("5_n8mi7"), ExtResource("6_isjxb"), ExtResource("16_dojb6"), ExtResource("9_ku647"), ExtResource("8_03sul"), ExtResource("9_r15lm"), ExtResource("10_hnnoc"), ExtResource("11_vhi3o"), ExtResource("12_sei38")])
 starting_balance = 500
 coin_dropping_rate = SubResource("Resource_mog0b")
