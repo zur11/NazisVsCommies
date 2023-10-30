@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="LevelSnowstorm" load_steps=34 format=3 uid="uid://b5xb4y7hrj6o2"]
+[gd_resource type="Resource" script_class="LevelSnowstorm" load_steps=35 format=3 uid="uid://b5xb4y7hrj6o2"]
 
 [ext_resource type="Script" path="res://data/worlds/snowstorm/level_snowstorm.gd" id="1_3yrn2"]
 [ext_resource type="Script" path="res://data/ally_presentation/ally_presentation.gd" id="1_6bp5j"]
@@ -12,6 +12,7 @@
 [ext_resource type="Script" path="res://data/enemy_quantity/enemy_quantity.gd" id="7_cufx0"]
 [ext_resource type="Script" path="res://data/enemy_wave/enemy_wave.gd" id="8_kpuyb"]
 [ext_resource type="Texture2D" uid="uid://dmj4whxksfy2u" path="res://data/worlds/snowstorm/level_thumbnail.png" id="9_tiuae"]
+[ext_resource type="Texture2D" uid="uid://cbelxubt5ra2b" path="res://screens/game_screen/tutorial_popup/assets/tutorial_3_image_1.png" id="13_q0su0"]
 
 [sub_resource type="Resource" id="Resource_vaht6"]
 script = ExtResource("1_6bp5j")
@@ -158,3 +159,4 @@ level_enemies = Array[ExtResource("8_kpuyb")]([SubResource("Resource_nqde6"), Su
 level_coins_reward = 150
 special_coin_reward = 300
 background_transitioning_level = true
+tutorial_background_thumbnails = Array[Texture]([ExtResource("13_q0su0")])

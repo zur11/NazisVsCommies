@@ -1,0 +1,37 @@
+ Attempting to parent and popup a dialog that already has a parent.
+  Safe save failed. This may be a permissions problem, but also may happen because you are running a paranoid antivirus. If this is the case, please switch to Windows Defender or disable the 'safe save' option in editor settings. This makes it work, but increases the risk of file corruption in a crash.
+  Safe save failed. This may be a permissions problem, but also may happen because you are running a paranoid antivirus. If this is the case, please switch to Windows Defender or disable the 'safe save' option in editor settings. This makes it work, but increases the risk of file corruption in a crash.
+  Attempting to parent and popup a dialog that already has a parent.
+  Safe save failed. This may be a permissions problem, but also may happen because you are running a paranoid antivirus. If this is the case, please switch to Windows Defender or disable the 'safe save' option in editor settings. This makes it work, but increases the risk of file corruption in a crash.
+  core/io/file_access.cpp:762 - Condition "f.is_null()" is true. Continuing.
+  core/io/file_access.cpp:762 - Condition "f.is_null()" is true. Continuing.
+  core/io/file_access.cpp:762 - Condition "f.is_null()" is true. Continuing.
+  Attempting to parent and popup a dialog that already has a parent.
+  Safe save failed. This may be a permissions problem, but also may happen because you are running a paranoid antivirus. If this is the case, please switch to Windows Defender or disable the 'safe save' option in editor settings. This makes it work, but increases the risk of file corruption in a crash.
+  Attempting to parent and popup a dialog that already has a parent.
+  Safe save failed. This may be a permissions problem, but also may happen because you are running a paranoid antivirus. If this is the case, please switch to Windows Defender or disable the 'safe save' option in editor settings. This makes it work, but increases the risk of file corruption in a crash.
+  core/io/file_access.cpp:762 - Condition "f.is_null()" is true. Continuing.
+  core/io/file_access.cpp:762 - Condition "f.is_null()" is true. Continuing.
+  Attempting to parent and popup a dialog that already has a parent.
+  Safe save failed. This may be a permissions problem, but also may happen because you are running a paranoid antivirus. If this is the case, please switch to Windows Defender or disable the 'safe save' option in editor settings. This makes it work, but increases the risk of file corruption in a crash.
+  Attempting to parent and popup a dialog that already has a parent.
+  Safe save failed. This may be a permissions problem, but also may happen because you are running a paranoid antivirus. If this is the case, please switch to Windows Defender or disable the 'safe save' option in editor settings. This makes it work, but increases the risk of file corruption in a crash.
+  core/io/file_access.cpp:762 - Condition "f.is_null()" is true. Continuing.
+  Unable to open file: res://.godot/imported/bayoneta01.png-c59bf6fa51cb6cc955ef3e9b799a3012.ctex.
+  Failed loading resource: res://.godot/imported/bayoneta01.png-c59bf6fa51cb6cc955ef3e9b799a3012.ctex. Make sure resources have been imported by opening the project in the editor at least once.
+  Failed loading resource: res://game_objects/allies/shooter_ally/bayonet_soldier/assets/bayonet_charge/bayoneta01.png. Make sure resources have been imported by opening the project in the editor at least once.
+  Unable to open file: res://.godot/imported/shield_2_slabs.png-314089fe6ff72d3677921cc2f360c76a.ctex.
+  Failed loading resource: res://.godot/imported/shield_2_slabs.png-314089fe6ff72d3677921cc2f360c76a.ctex. Make sure resources have been imported by opening the project in the editor at least once.
+  Failed loading resource: res://game_objects/components/shield/soviet_shield/assets/shield_2_slabs.png. Make sure resources have been imported by opening the project in the editor at least once.
+  Unable to open file: res://.godot/imported/arm1.png-230a714e3c1d4c3659c2944d95a9be0a.ctex.
+  Failed loading resource: res://.godot/imported/arm1.png-230a714e3c1d4c3659c2944d95a9be0a.ctex. Make sure resources have been imported by opening the project in the editor at least once.
+  Failed loading resource: res://game_objects/enemies/shooter_enemy/bayonet_german/assets/arm1.png. Make sure resources have been imported by opening the project in the editor at least once.
+  Unable to open file: res://.godot/imported/right_elbow.png-19de8f9e682d6fdba5ec2f20d53f83d0.ctex.
+  Failed loading resource: res://.godot/imported/right_elbow.png-19de8f9e682d6fdba5ec2f20d53f83d0.ctex. Make sure resources have been imported by opening the project in the editor at least once.
+  Failed loading resource: res://game_objects/enemies/shooter_enemy/fast_hand_gun_german/assets/right_elbow.png. Make sure resources have been imported by opening the project in the editor at least once.
+  Unable to open file: res://.godot/imported/pause_menu_popup.png-d8a1ff0fefa355b4f761b1d44814aadf.ctex.
+  Failed loading resource: res://.godot/imported/pause_menu_popup.png-d8a1ff0fefa355b4f761b1d44814aadf.ctex. Make sure resources have been imported by opening the project in the editor at least once.
+  Failed loading resource: res://screens/game_screen/paused_game_popup/assets/pause_menu_popup.png. Make sure resources have been imported by opening the project in the editor at least once.
+  Unable to open file: res://.godot/imported/pause_menu_popup_(red).png-e5ffafc534c14858a2cfd769f5025008.ctex.
+  Failed loading resource: res://.godot/imported/pause_menu_popup_(red).png-e5ffafc534c14858a2cfd769f5025008.ctex. Make sure resources have been imported by opening the project in the editor at least once.
+  Failed loading resource: res://screens/game_screen/paused_game_popup/assets/pause_menu_popup_(red).png. Make sure resources have been imported by opening the project in the editor at least once.

@@ -108,6 +108,10 @@ func _set_popups():
 
 	_tutorial_popup.set_z_index(10)
 	_tutorial_popup.visible = false
+	
+	if level.is_tutorial:
+		_tutorial_popup.background_thumbnails = level.tutorial_background_thumbnails
+		_tutorial_popup.update_background_texture()
 
 func _set_game_screen_user_data():
 	_game_screen_user_data.playable_rows = level.playable_rows

@@ -1,6 +1,6 @@
 [gd_scene load_steps=11 format=3 uid="uid://tkdaet88vh8r"]
 
-[ext_resource type="Texture2D" uid="uid://chlkgklak53ou" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/assets/stalingrad_2_icon.PNG" id="1_t4na3"]
+[ext_resource type="Texture2D" uid="uid://chlkgklak53ou" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/assets/stalingrad_2_icon.png" id="1_t4na3"]
 [ext_resource type="Script" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/world_icon.gd" id="2_2wa2e"]
 [ext_resource type="Texture2D" uid="uid://bhnummcditq3x" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/assets/world_icon_particle.png" id="3_ndgw7"]
 

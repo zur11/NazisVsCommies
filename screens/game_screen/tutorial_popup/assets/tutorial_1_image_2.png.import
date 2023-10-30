@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d07ukk5tlhwpg"
-path="res://.godot/imported/image_content Fusionadas.PNG-a4b58e16049491ad567c148fe5e36d3b.ctex"
+uid="uid://cunfv7egth52b"
+path="res://.godot/imported/tutorial_1_image_2.png-ed244662d7e7d9fb589f50bd4904a671.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://screens/game_screen/tutorial_popup/assets/image_content Fusionadas.PNG"
-dest_files=["res://.godot/imported/image_content Fusionadas.PNG-a4b58e16049491ad567c148fe5e36d3b.ctex"]
+source_file="res://screens/game_screen/tutorial_popup/assets/tutorial_1_image_2.png"
+dest_files=["res://.godot/imported/tutorial_1_image_2.png-ed244662d7e7d9fb589f50bd4904a671.ctex"]
 
 [params]
 

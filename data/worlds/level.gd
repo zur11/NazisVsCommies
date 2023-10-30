@@ -22,6 +22,7 @@ class_name Level extends Resource
 @export var level_coins_reward : int
 @export var special_coin_reward : int
 @export var background_transitioning_level : bool
+@export var tutorial_background_thumbnails : Array[Texture]
 
 func _set_level_name(new_value):
 	level_name = new_value

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bf0ptqtpkxhg4"
-path="res://.godot/imported/scrollbar_back.PNG-a0b02810716a2d9e07ae0a7b2262807e.ctex"
+uid="uid://dl5o03oly022o"
+path="res://.godot/imported/next_button.png-b3a2313c2c0c5af836bc52564034775f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://screens/game_screen/tutorial_popup/assets/scrollbar_back.PNG"
-dest_files=["res://.godot/imported/scrollbar_back.PNG-a0b02810716a2d9e07ae0a7b2262807e.ctex"]
+source_file="res://screens/game_screen/tutorial_popup/assets/next_button.png"
+dest_files=["res://.godot/imported/next_button.png-b3a2313c2c0c5af836bc52564034775f.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://yjwg1f1c2env"
-path="res://.godot/imported/stalingrad_icon.png-3c37f9b49282c07fb214a1c6e5d0d20d.ctex"
+uid="uid://cl38hqx7e5unu"
+path="res://.godot/imported/next_button_selected.png-01b91a49f014c652c5c86bb1d7d2bd88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/assets/stalingrad_icon.png"
-dest_files=["res://.godot/imported/stalingrad_icon.png-3c37f9b49282c07fb214a1c6e5d0d20d.ctex"]
+source_file="res://screens/game_screen/tutorial_popup/assets/next_button_selected.png"
+dest_files=["res://.godot/imported/next_button_selected.png-01b91a49f014c652c5c86bb1d7d2bd88.ctex"]
 
 [params]
 

@@ -1,6 +1,6 @@
 [gd_scene load_steps=11 format=3 uid="uid://d5j7ri7ludn5"]
 
-[ext_resource type="Texture2D" uid="uid://dyrbi23echou7" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/assets/budapest_icon.PNG" id="1_xldmu"]
+[ext_resource type="Texture2D" uid="uid://dyrbi23echou7" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/assets/budapest_icon.png" id="1_xldmu"]
 [ext_resource type="Script" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/world_icon.gd" id="2_6l68f"]
 [ext_resource type="Texture2D" uid="uid://bhnummcditq3x" path="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/assets/world_icon_particle.png" id="3_4sng4"]
 

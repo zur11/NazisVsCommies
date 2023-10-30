@@ -1,4 +1,4 @@
-[gd_scene load_steps=35 format=3 uid="uid://0yp607cucppk"]
+[gd_scene load_steps=36 format=3 uid="uid://0yp607cucppk"]
 
 [ext_resource type="Script" path="res://screens/game_screen/game_screen.gd" id="1_k0a87"]
 [ext_resource type="PackedScene" uid="uid://cvxpu3e3wl11t" path="res://screens/game_screen/terrain_grid/terrain_grid.tscn" id="2_3aeo5"]
@@ -32,7 +32,8 @@
 [ext_resource type="AudioStream" uid="uid://bwp7ikyedhmvf" path="res://assets/audio/sfx/game_screen_events/enemies_arrived.mp3" id="30_qi2js"]
 [ext_resource type="PackedScene" uid="uid://ds50m5bk5qstt" path="res://global_objects/user_balance_displayer/user_balance_displayer.tscn" id="31_8h6yb"]
 [ext_resource type="PackedScene" uid="uid://dm57fwp48yttj" path="res://screens/game_screen/tutorial_popup/tutorial_popup.tscn" id="32_id81i"]
-[ext_resource type="Texture2D" uid="uid://bfhyaegdim440" path="res://screens/game_screen/allies_selector_popup/assets/ready_button.png" id="33_l50vp"]
+[ext_resource type="Texture2D" uid="uid://dvgwqsw3u6sgo" path="res://screens/game_screen/tutorial_popup/assets/ok_button.png" id="33_jaidw"]
+[ext_resource type="Texture2D" uid="uid://dtb15ost7qax6" path="res://screens/game_screen/tutorial_popup/assets/ok_button_selected.png" id="34_ky2ja"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_uhyfe"]
 size = Vector2(20, 893)
@@ -289,7 +290,8 @@ offset_bottom = 67.0
 grow_horizontal = 1
 grow_vertical = 1
 total_pages = 3
-ok_button_texture = ExtResource("33_l50vp")
+ok_button_texture = ExtResource("33_jaidw")
+selected_ok_button_texture = ExtResource("34_ky2ja")
 
 [node name="Background" parent="TutorialPopup" index="0"]
 offset_left = 36.0

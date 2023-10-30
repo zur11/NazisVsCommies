@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chlkgklak53ou"
-path="res://.godot/imported/stalingrad_2_icon.PNG-de6278ca8cb537f847a1a5c23ad60dc0.ctex"
+path="res://.godot/imported/stalingrad_2_icon.png-b2d3ca70ec6bec4b1ae56c722bb31da1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/assets/stalingrad_2_icon.PNG"
-dest_files=["res://.godot/imported/stalingrad_2_icon.PNG-de6278ca8cb537f847a1a5c23ad60dc0.ctex"]
+source_file="res://screens/sub_menus/games_menu/world_selector/world_buttons/world_icons/assets/stalingrad_2_icon.png"
+dest_files=["res://.godot/imported/stalingrad_2_icon.png-b2d3ca70ec6bec4b1ae56c722bb31da1.ctex"]
 
 [params]
 

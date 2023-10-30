@@ -1,16 +1,17 @@
 [gd_scene load_steps=6 format=3 uid="uid://dm57fwp48yttj"]
 
 [ext_resource type="Script" path="res://screens/game_screen/tutorial_popup/tutorial_popup.gd" id="1_ma753"]
-[ext_resource type="Texture2D" uid="uid://scfy5o583tip" path="res://screens/game_screen/tutorial_popup/assets/bg.PNG" id="2_nspcv"]
-[ext_resource type="Texture2D" uid="uid://bh3a33ibhyye4" path="res://screens/game_screen/tutorial_popup/assets/border.PNG" id="3_o6el2"]
-[ext_resource type="Texture2D" uid="uid://jwmwcyqtv2kh" path="res://assets/screens/shared_assets/go_back_1.png" id="4_6cqou"]
-[ext_resource type="Texture2D" uid="uid://cjgjnvdvgceab" path="res://assets/screens/shared_assets/go_back_2.png" id="5_opwom"]
+[ext_resource type="Texture2D" uid="uid://scfy5o583tip" path="res://screens/game_screen/tutorial_popup/assets/bg.png" id="2_txbyu"]
+[ext_resource type="Texture2D" uid="uid://bh3a33ibhyye4" path="res://screens/game_screen/tutorial_popup/assets/border.PNG" id="3_82yp4"]
+[ext_resource type="Texture2D" uid="uid://dl5o03oly022o" path="res://screens/game_screen/tutorial_popup/assets/next_button.png" id="4_0j1rr"]
+[ext_resource type="Texture2D" uid="uid://cl38hqx7e5unu" path="res://screens/game_screen/tutorial_popup/assets/next_button_selected.png" id="5_h7rqy"]
 
 [node name="TutorialPopup" type="Control"]
 layout_mode = 3
-anchors_preset = 15
-anchor_right = 1.0
-anchor_bottom = 1.0
+anchor_right = 0.613
+anchor_bottom = 0.867
+offset_right = 0.039917
+offset_bottom = -0.360046
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_ma753")
@@ -19,15 +20,16 @@ script = ExtResource("1_ma753")
 layout_mode = 0
 offset_right = 40.0
 offset_bottom = 40.0
-texture = ExtResource("2_nspcv")
+texture = ExtResource("2_txbyu")
 
 [node name="BoxBorderTexture" type="TextureRect" parent="."]
 layout_mode = 0
 offset_right = 40.0
 offset_bottom = 40.0
-texture = ExtResource("3_o6el2")
+texture = ExtResource("3_82yp4")
 
 [node name="CurrentPageLabel" type="Label" parent="."]
+visible = false
 layout_mode = 0
 offset_left = 436.0
 offset_top = 288.0
@@ -38,13 +40,12 @@ theme_override_font_sizes/font_size = 50
 
 [node name="ContinueButton" type="TextureButton" parent="."]
 layout_mode = 0
-offset_left = 452.0
-offset_top = 606.0
-offset_right = 602.0
-offset_bottom = 722.0
-texture_normal = ExtResource("4_6cqou")
-texture_pressed = ExtResource("5_opwom")
-texture_hover = ExtResource("5_opwom")
-flip_h = true
+offset_left = 830.0
+offset_top = 765.0
+offset_right = 1136.0
+offset_bottom = 890.0
+texture_normal = ExtResource("4_0j1rr")
+texture_pressed = ExtResource("5_h7rqy")
+texture_hover = ExtResource("5_h7rqy")
 
 [connection signal="pressed" from="ContinueButton" to="." method="_on_continue_button_pressed"]

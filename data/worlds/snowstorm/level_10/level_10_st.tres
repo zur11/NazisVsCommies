@@ -666,3 +666,4 @@ level_enemies = Array[ExtResource("11_s00g3")]([SubResource("Resource_aid0e"), S
 level_coins_reward = 150
 special_coin_reward = 0
 background_transitioning_level = false
+tutorial_background_thumbnails = Array[Texture]([])
