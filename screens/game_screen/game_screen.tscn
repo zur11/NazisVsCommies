@@ -225,9 +225,9 @@ layout_mode = 0
 anchors_preset = 0
 anchor_right = 0.0
 anchor_bottom = 0.0
-offset_left = 455.0
+offset_left = 377.0
 offset_top = 108.0
-offset_right = 455.0
+offset_right = 377.0
 offset_bottom = 108.0
 grow_horizontal = 1
 grow_vertical = 1
@@ -283,17 +283,17 @@ layout_mode = 0
 anchors_preset = 0
 anchor_right = 0.0
 anchor_bottom = 0.0
-offset_left = 498.0
-offset_top = 67.0
-offset_right = 498.0
-offset_bottom = 67.0
+offset_left = 341.0
+offset_top = 5.0
+offset_right = 341.0
+offset_bottom = 5.0
 grow_horizontal = 1
 grow_vertical = 1
 total_pages = 3
 ok_button_texture = ExtResource("33_jaidw")
 selected_ok_button_texture = ExtResource("34_ky2ja")
 
-[node name="Background" parent="TutorialPopup" index="0"]
+[node name="Background" parent="TutorialPopup" index="1"]
 offset_left = 36.0
 offset_top = 30.0
 offset_right = 1139.0

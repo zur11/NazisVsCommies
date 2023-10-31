@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dflbnlc60j3v8"
-path="res://.godot/imported/head.png-8cf767af9ea9a68c9b879ee4dffccab2.ctex"
+path="res://.godot/imported/head.PNG-f9989279c1e9361b7dd5f586d3664e28.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game_objects/allies/shooter_ally/fast_bayonet_soldier/assets/head.png"
-dest_files=["res://.godot/imported/head.png-8cf767af9ea9a68c9b879ee4dffccab2.ctex"]
+source_file="res://game_objects/allies/shooter_ally/fast_bayonet_soldier/assets/head.PNG"
+dest_files=["res://.godot/imported/head.PNG-f9989279c1e9361b7dd5f586d3664e28.ctex"]
 
 [params]
 
